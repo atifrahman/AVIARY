@@ -1,0 +1,22 @@
+Platform,Technology,Color,Year,Read length,Error rate,Cost/Mb,References
+Sanger,3730xl,0,2003,900,0.001,2400,http://www.hindawi.com/journals/bmri/2012/251364/
+Illumina,Solexa/Illumina sequence analyzer,1,2006,35,0.01,5.97,http://bio.lmu.de/~parsch/evogen/NextGenSeq2008.pdf
+,Illumina GAII,1,2008,50,0.01,,
+,Illumina GAIIx,1,2009,150,0.01,0.15,http://www.biomedcentral.com/content/pdf/1471-2164-13-341.pdf
+,Illumina Hi-Seq 2000,1,2010,100,0.01,0.07,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398667/pdf/JBB2012-251364.pdf
+,Illumina MiSeq,1,2011,300,0.01,0.5,http://www.nature.com/nbt/journal/v30/n5/pdf/nbt.2198.pdf
+,Illumina HiSeq 2500,1,2012,125,0.01,0.05,http://www.yuzuki.org/the-ion-torrent-proton-compared-to-the-illumina-hiseq-2500/
+,Illumina NextSeq 500,1,2014,150,0.01,0.03,http://allseq.com/knowledgebank/sequencing-platforms/illumina
+,Illumina HiSeq 3000/4000,1,2014,150,0.01,,
+,Illumina HiSeq X Ten,1,2014,150,0.01,0.007,http://allseq.com/knowledgebank/sequencing-platforms/illumina
+454,454 GS-20 pyrosequencer,2,2005,500,0.02,84.39,http://bio.lmu.de/~parsch/evogen/NextGenSeq2008.pdf
+,Roche/454 GS FLX+,2,2008,700,0.02,10,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398667/pdf/JBB2012-251364.pdf
+,Roche/454 GS Junior,2,2009,400,0.02,31,http://www.nature.com/nbt/journal/v30/n5/pdf/nbt.2198.pdf
+SOLiD,ABI SOLiD,3,2007,35,0.01,5.81,http://bio.lmu.de/~parsch/evogen/NextGenSeq2008.pdf
+,ABI SOLiD 3,3,2009,35,0.01,,
+,ABI SOLiD 5500xl,3,2010,75,0.01,0.13,http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3398667/pdf/JBB2012-251364.pdf
+,ABI SOLiD 5500xl W,3,2013,75,0.01,0.02,http://allseq.com/knowledgebank/sequencing-platforms/life-technologies-solid
+Ion Torrent,Ion Torrent Ion PGM,4,2010,400,0.02,0.63,http://www.nature.com/nbt/journal/v30/n5/pdf/nbt.2198.pdf
+,Ion Torrent Ion Proton,4,2012,200,0.02,0.1,http://www.hindawi.com/journals/bmri/2012/251364/
+Pacific Bioscience,Pacific Bioscience RSII,5,2010,14000,0.13,2,http://www.biomedcentral.com/content/pdf/1471-2164-13-341.pdf
+Oxford Nanopore ,Oxford Nanopore MinION,6,2014,6000,0.18,1,"http://www.sciencedirect.com/science/article/pii/S1097276515003408, http://www.molecularecologist.com/next-gen-table-2b/"
