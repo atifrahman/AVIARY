@@ -4,6 +4,7 @@
 #### sequencing_evo.eps
 
 A figure showing evolution of sequencing technologies used in http://www.eecs.berkeley.edu/Pubs/TechRpts/2015/EECS-2015-186.pdf.
+
 This was inspired by a figure in  
 Reuter, Jason A., Damek V. Spacek, and Michael P. Snyder. "High-Throughput Sequencing Technologies." Molecular cell 58.4 (2015): 586-597. 
 
